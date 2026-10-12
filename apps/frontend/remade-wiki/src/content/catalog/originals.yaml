@@ -1054,3 +1054,9 @@
   url: https://fosterkent.com/motionmixes/
   category: creative
   aliases: ["Foster Kent MotionMixes"]
+
+- slug: gmail
+  name: Gmail
+  url: https://workspace.google.com/products/gmail/
+  category: productivity
+  aliases: ["Google Mail"]
