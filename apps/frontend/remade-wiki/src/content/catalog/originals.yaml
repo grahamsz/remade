@@ -1074,3 +1074,9 @@
   url: https://workspace.google.com/products/gmail/
   category: productivity
   aliases: [Google Mail]
+
+- slug: final-draft
+  name: Final Draft
+  url: https://www.finaldraft.com/
+  category: creative
+  aliases: [Final Draft 13]
