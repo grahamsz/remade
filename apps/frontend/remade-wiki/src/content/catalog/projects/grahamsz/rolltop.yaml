@@ -1,5 +1,6 @@
 slug: rolltop
 name: Rolltop
+authors: [grahamsz]
 repository: https://github.com/grahamsz/rolltop
 originals: [gmail]
 category: productivity
@@ -13,9 +14,10 @@ description: >-
   into local storage with full-text search, a web UI, offline access to recently
   viewed mail, and an Android app.
 license: AGPL-3.0-or-later
+website: https://rolltop.app/
 docs: https://github.com/grahamsz/rolltop#readme
 limitations: >-
-  Broader Gmail alternative, submitted for maintainer approval under POLICY.md.
+  Broader Gmail alternative included with maintainer approval.
   Requires a self-hosted server and existing IMAP/SMTP accounts. Gmail API
   compatibility and full feature parity are not claimed. Offline access is
   limited to previously viewed mail.
